@@ -1,0 +1,32 @@
+[
+  {
+    "brand":"MC",
+    "name":"hello test",
+    "number":"5444009999222205"
+  },
+  {
+    "brand":"VISA",
+    "name":"hello test",
+    "number":"4445222299990007"
+  },
+  {
+    "brand":"DINERS",
+    "name":"hello test",
+    "number":"36259600000012"
+  },
+  {
+    "brand":"CUP",
+    "name":"hello test",
+    "number":"6221261111112650"
+  },
+  {
+    "brand":"JCB",
+    "name":"hello test",
+    "number":"3566007770017395"
+  },
+  {
+    "brand":"DISC",
+    "name":"hello test",
+    "number":"6011000990911111"
+  }
+]

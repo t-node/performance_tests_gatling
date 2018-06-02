@@ -1,0 +1,72 @@
+[
+  {
+    "address1": "250 vesey st",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10080",
+    "country": "US"
+  },
+  {
+    "address1": "225 liberty st",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10080",
+    "country": "US"
+  },
+  {
+    "address1": "60 Hudson Street",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10013",
+    "country": "US"
+  },
+  {
+    "address1": "180 West Broadway",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10013",
+    "country": "US"
+  },
+  {
+    "address1": "282 Linden Park Place",
+    "city": "Highland Park",
+    "state": "IL",
+    "zip": "60035",
+    "country": "US"
+  },
+  {
+    "address1": "2145 Saint Johns Avenue",
+    "city": "Highland Park",
+    "state": "IL",
+    "zip": "60035",
+    "country": "US"
+  },
+  {
+    "address1": "119 Hutton Street",
+    "city": "Jersey City",
+    "state": "NJ",
+    "zip": "07307",
+    "country": "US"
+  },
+  {
+    "address1": "406 Grand Stree",
+    "city": "Hoboken",
+    "state": "NJ",
+    "zip": "07030",
+    "country": "US"
+  },
+  {
+    "address1": "1800 South McClellan Street",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98144",
+    "country": "US"
+  },
+  {
+    "address1": "2616 17th Avenue South",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98144",
+    "country": "US"
+  }
+]

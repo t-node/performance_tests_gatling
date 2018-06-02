@@ -1,0 +1,83 @@
+[
+  {
+    "Url":"https://rpm.newrelic.com/chart_data/metric_charts/single_metric.json?account_id=2000&agent=8146577&application_id=8146577&chart_type=MSLine&current_product=apm_product&hide_legend=true&labelStep=3&live=true&name=HttpDispatcher&no_click=false&number_suffix=&omit_markers=true&render_to=current_throughput_8146577&title=&tooltipGroup=current_charts&value=requests_per_minute&title=SAKS_Apps_Web_PROD%3A+Throughput&tw%5Bdur%5D=",
+    "titleGraphana" : "Throughput"
+  },
+  {
+    "Url": "https://rpm.newrelic.com/chart_data/metric_charts/single_metric.json?account_id=2000&add_to_dashboard=false&agent=8146577&chart_type=StackedArea2D&current_product=apm_product&format_fn=smart_round&hide_legend=false&limit=2000&name=GC%2FGPGC+New&no_click=true&no_links=true&number_suffix=&render_to=31474&show_events=true&subtitle=&title=Saks_web_prod_GC&value=average_time&tw%5Bdur%5D=",
+    "titleGraphana": "Garbage_Collection"
+  },
+  {
+    "Url": "https://rpm.newrelic.com/chart_data/metric_charts/single_metric.json?account_id=2000&add_to_dashboard=false&agent=8146577&chart_type=StackedArea2D&current_product=apm_product&format_fn=smart_round&hide_legend=false&limit=2000&name=GC%2FGPGC+Old&no_click=true&no_links=true&number_suffix=&render_to=31475&show_events=true&subtitle=&title=Saks_web_prod_GCOld&value=average_time&tw%5Bdur%5D=",
+    "titleGraphana": "Garbage_Collection_Old"
+  },
+  {
+    "Url": "https://rpm.newrelic.com/chart_data/metric_charts/single_metric.json?account_id=2000&add_to_dashboard=false&agent=8146577&chart_type=StackedArea2D&current_product=apm_product&format_fn=smart_round&hide_legend=false&limit=2000&name=Memory%2FHeap%2FUsed&no_click=true&no_links=true&number_suffix=&render_to=31476&show_events=true&subtitle=&title=Saks_web_prod_Heap&value=total_used_mb&tw%5Bdur%5D=",
+    "titleGraphana": "HeapMemory_Used"
+  },
+  {
+    "Url": "https://rpm.newrelic.com/chart_data/metric_charts/single_metric.json?account_id=2000&add_to_dashboard=false&agent=8146577&chart_type=StackedArea2D&current_product=apm_product&format_fn=smart_round&hide_legend=false&limit=2000&name=Memory%2FNonHeap%2FUsed&no_click=true&no_links=true&number_suffix=&render_to=31476&show_events=true&subtitle=&title=Saks_web_prod_Heap&value=total_used_mb&tw%5Bdur%5D=",
+    "titleGraphana": "NonHeapMemory_Used"
+  },
+  {
+    "Url": "https://rpm.newrelic.com/chart_data/metric_charts/single_metric.json?account_id=2000&add_to_dashboard=false&agent=8146577&chart_type=StackedArea2D&current_product=apm_product&format_fn=smart_round&hide_legend=false&limit=2000&name=Memory%2FPhysical&no_click=true&no_links=true&number_suffix=&render_to=31476&show_events=true&subtitle=&title=Saks_web_prod_Heap&value=total_used_mb&tw%5Bdur%5D=",
+    "titleGraphana": "PhysicalMemory_Used"
+  },
+  {
+    "Url": "https://rpm.newrelic.com/chart_data/metric_charts/single_metric.json?account_id=2000&add_to_dashboard=false&agent=8146577&chart_type=StackedArea2D&current_product=apm_product&format_fn=smart_round&hide_legend=false&limit=2000&name=Database%2Finsert&no_click=true&no_links=true&number_suffix=&render_to=31768&show_events=true&subtitle=&title=Test&value=calls_per_minute&tw%5Bdur%5D=",
+    "titleGraphana": "Database/insert_Calls"
+  },
+  {
+    "Url": "https://rpm.newrelic.com/chart_data/metric_charts/single_metric.json?account_id=2000&add_to_dashboard=false&agent=8146577&chart_type=StackedArea2D&current_product=apm_product&format_fn=smart_round&hide_legend=false&limit=2000&name=Database%2Finsert&no_click=true&no_links=true&number_suffix=&render_to=31765&show_events=true&subtitle=&title=test&value=average_response_time&tw%5Bdur%5D=",
+    "titleGraphana": "Database/insert_avg"
+  },
+  {
+    "Url": "https://rpm.newrelic.com/chart_data/metric_charts/single_metric.json?account_id=2000&add_to_dashboard=false&agent=8146577&chart_type=StackedArea2D&current_product=apm_product&format_fn=smart_round&hide_legend=false&limit=2000&name=Database%2Fupdate&no_click=true&no_links=true&number_suffix=&render_to=31768&show_events=true&subtitle=&title=Test&value=calls_per_minute&tw%5Bdur%5D=",
+    "titleGraphana": "Database/update_Calls"
+  },
+  {
+    "Url": "https://rpm.newrelic.com/chart_data/metric_charts/single_metric.json?account_id=2000&add_to_dashboard=false&agent=8146577&chart_type=StackedArea2D&current_product=apm_product&format_fn=smart_round&hide_legend=false&limit=2000&name=Database%2Fupdate&no_click=true&no_links=true&number_suffix=&render_to=31768&show_events=true&subtitle=&title=Test&value=average_response_time&tw%5Bdur%5D=",
+    "titleGraphana": "Database/update_avg"
+  },
+  {
+    "Url": "https://rpm.newrelic.com/chart_data/metric_charts/single_metric.json?account_id=2000&add_to_dashboard=false&agent=8146577&chart_type=StackedArea2D&current_product=apm_product&format_fn=smart_round&hide_legend=false&limit=2000&name=Database%2Fselect&no_click=true&no_links=true&number_suffix=&render_to=31768&show_events=true&subtitle=&title=Test&value=calls_per_minute&tw%5Bdur%5D=",
+    "titleGraphana": "Database/Select_Calls"
+  },
+  {
+    "Url": "https://rpm.newrelic.com/chart_data/metric_charts/single_metric.json?account_id=2000&add_to_dashboard=false&agent=8146577&chart_type=StackedArea2D&current_product=apm_product&format_fn=smart_round&hide_legend=false&limit=2000&name=Database%2Fselect&no_click=true&no_links=true&number_suffix=&render_to=31768&show_events=true&subtitle=&title=Test&value=average_response_time&tw%5Bdur%5D=",
+    "titleGraphana": "Database/Select_avg"
+  },
+  {
+    "Url": "https://rpm.newrelic.com/chart_data/metric_charts/single_metric.json?account_id=2000&add_to_dashboard=false&agent=8146577&chart_type=StackedArea2D&current_product=apm_product&format_fn=smart_round&hide_legend=false&limit=2000&name=Database%2Fdelete&no_click=true&no_links=true&number_suffix=&render_to=31768&show_events=true&subtitle=&title=Test&value=calls_per_minute&tw%5Bdur%5D=",
+    "titleGraphana": "Database/delete_Calls"
+  },
+  {
+    "Url": "https://rpm.newrelic.com/chart_data/metric_charts/single_metric.json?account_id=2000&add_to_dashboard=false&agent=8146577&chart_type=StackedArea2D&current_product=apm_product&format_fn=smart_round&hide_legend=false&limit=2000&name=Database%2Fdelete&no_click=true&no_links=true&number_suffix=&render_to=31768&show_events=true&subtitle=&title=Test&value=average_response_time&tw%5Bdur%5D=",
+    "titleGraphana": "Database/delete_avg"
+  },
+  {
+    "Url": "https://rpm.newrelic.com/chart_data/metric_charts/single_metric.json?account_id=2000&add_to_dashboard=false&agent=8146577&chart_type=StackedArea2D&current_product=apm_product&format_fn=smart_round&hide_legend=false&limit=2000&name=Database%2Fall&no_click=true&no_links=true&number_suffix=&render_to=31765&show_events=true&subtitle=&title=test&value=calls_per_minute&tw%5Bdur%5D=",
+    "titleGraphana": "Database/all_Calls"
+  },
+  {
+    "Url": "https://rpm.newrelic.com/chart_data/metric_charts/single_metric.json?account_id=2000&add_to_dashboard=false&agent=8146577&chart_type=StackedArea2D&current_product=apm_product&format_fn=smart_round&hide_legend=false&limit=2000&name=Database%2Fall&no_click=true&no_links=true&number_suffix=&render_to=31765&show_events=true&subtitle=&title=test&value=average_response_time&tw%5Bdur%5D=",
+    "titleGraphana": "Database/all_avg"
+  },
+  {
+    "Url": "https://rpm.newrelic.com/chart_data/metric_charts/single_metric.json?account_id=2000&add_to_dashboard=false&agent=8146577&chart_type=StackedArea2D&current_product=apm_product&format_fn=smart_round&hide_legend=false&limit=2000&name=DatabaseErrors%2Fall&no_click=true&no_links=true&number_suffix=&render_to=31765&show_events=true&subtitle=&title=test&value=calls_per_minute&tw%5Bdur%5D=",
+    "titleGraphana": "Database/error_Calls"
+  },
+  {
+    "Url": "https://rpm.newrelic.com/chart_data/metric_charts/single_metric.json?account_id=2000&add_to_dashboard=false&agent=8146577&chart_type=StackedArea2D&current_product=apm_product&format_fn=smart_round&hide_legend=false&limit=2000&name=DatabaseErrors%2Fall&no_click=true&no_links=true&number_suffix=&render_to=31765&show_events=true&subtitle=&title=test&value=average_response_time&tw%5Bdur%5D=",
+    "titleGraphana": "Database/error_avg"
+  },
+  {
+    "Url": "https://rpm.newrelic.com/chart_data/metric_charts/single_metric.json?account_id=2000&add_to_dashboard=false&agent=8146577&chart_type=StackedArea2D&current_product=apm_product&format_fn=smart_round&hide_legend=false&limit=2000&name=CPU%2FUser%2FUtilization&no_click=true&no_links=true&number_suffix=&render_to=31765&show_events=true&subtitle=&title=test&value=percent&tw%5Bdur%5D=",
+    "titleGraphana": "CPU_Util"
+  },
+  {
+    "Url": "https://rpm.newrelic.com/chart_data/metric_charts/single_metric.json?account_id=2000&add_to_dashboard=false&agent=8146577&chart_type=StackedArea2D&current_product=apm_product&format_fn=smart_round&hide_legend=false&limit=2000&name=Threads%2Fall&no_click=true&no_links=true&number_suffix=&render_to=31765&show_events=true&subtitle=&title=test&value=calls_per_minute&tw%5Bdur%5D=",
+    "titleGraphana": "Threads"
+  }
+]
+

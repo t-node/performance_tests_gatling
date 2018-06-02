@@ -1,0 +1,34 @@
+[
+  {
+    "CardBrand":"VISA",
+    "CardNum":"4445222299990007",
+    "CardHolderName":"Test",
+    "CardMonth":"7",
+    "CardYear":"2017",
+    "CVV":"123"
+  },
+  {
+    "CardBrand":"MasterCard",
+    "CardNum":"5444009999222205",
+    "CardHolderName":"Test",
+    "CardMonth":"7",
+    "CardYear":"2017",
+    "CVV":"123"
+  },
+  {
+    "CardBrand":"Discover",
+    "CardNum":"6011000990911111",
+    "CardHolderName":"Test",
+    "CardMonth":"7",
+    "CardYear":"2017",
+    "CVV":"123"
+  },
+  {
+    "CardBrand":"Diner",
+    "CardNum":"36259600000012",
+    "CardHolderName":"Test",
+    "CardMonth":"7",
+    "CardYear":"2017",
+    "CVV":"123"
+  }
+]
